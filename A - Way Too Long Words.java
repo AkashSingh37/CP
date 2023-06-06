@@ -20,3 +20,19 @@ public class WordsMinimizedProbA {
 // https://codeforces.com/contest/71/problem/A
 
 //Test Cases
+// Input
+// 4
+// word
+// localization
+// internationalization
+// pneumonoultramicroscopicsilicovolcanoconiosis
+// Output
+// word
+// l10n
+// i18n
+// p43s
+// Answer
+// word
+// l10n
+// i18n
+// p43s
