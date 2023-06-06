@@ -32,3 +32,5 @@ public class HallofFame {
         }
     }
 }
+
+// https://codeforces.com/contest/1779/problem/A
