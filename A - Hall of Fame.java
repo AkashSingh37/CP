@@ -34,4 +34,33 @@ public class HallofFame {
 }
 
 // https://codeforces.com/contest/1779/problem/A
+
 //Test Cases
+// Input
+// 6
+// 2
+// LL
+// 2
+// LR
+// 2
+// RL
+// 2
+// RR
+// 7
+// LLRLLLR
+// 7
+// RRLRRRL
+// Output
+// -1
+// 1
+// 0
+// -1
+// 0
+// 0
+// Answer
+// -1
+// 1
+// 0
+// -1
+// 2
+// 3
