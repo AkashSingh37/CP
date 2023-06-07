@@ -41,9 +41,8 @@ public class Distance {
     }
 }
 
-//Question
-
-
+//Question Link
+// https://codeforces.com/contest/1612/problem/A
 
 
 // Test Cases
