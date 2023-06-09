@@ -30,4 +30,22 @@ public class LuckyTicket {
 // https://codeforces.com/contest/1676/problem/A
 
 //Test Cases
-
+Input
+5
+213132
+973894
+045207
+000000
+055776
+Output
+YES
+NO
+YES
+YES
+NO
+Answer
+YES
+NO
+YES
+YES
+NO
