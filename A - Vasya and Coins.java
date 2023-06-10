@@ -1,4 +1,4 @@
 
 
-Question
-https://codeforces.com/contest/1660/problem/A
+// Question
+// https://codeforces.com/contest/1660/problem/A
