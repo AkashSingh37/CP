@@ -19,6 +19,7 @@ public class Vasya {
 // Question
 // https://codeforces.com/contest/1660/problem/A
 
+
 //Test Cases
 // Input
 // 5
