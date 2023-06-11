@@ -29,6 +29,7 @@ public class LuckyTicket {
 // Question
 // https://codeforces.com/contest/1676/problem/A
 
+
 //Test Cases
 // Input
 // 5
